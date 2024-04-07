@@ -1,0 +1,16 @@
+{
+  "name": "iqo",
+  "version": "0.0.2",
+  "description": "iqo Ticket Bot",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "iqo#9999",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/voice": "^0.15.0",
+    "discord.js": "^14.8.0"
+  }
+}
